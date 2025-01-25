@@ -6,7 +6,6 @@ datePublished: Sat Jan 25 2025 04:59:17 GMT+0000 (Coordinated Universal Time)
 cuid: cm6bq16sk000g09lbh4ig9xrs
 slug: a-guide-to-choosing-the-right-license-on-github-for-developers-and-creators
 canonical: https://dev.to/pratham15541/a-guide-to-choosing-the-right-license-on-github-for-developers-and-creators-4opb
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737792240417/b14e6fcf-4108-4907-a7f4-d0cf17f55381.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737780963511/aea896ea-bbff-46e2-9655-3caa29acc6b7.webp
 tags: software-development, github, developers, opensource, programming-ciovqvfcb008mb253jrczo9ye, licensing, creative-commons, github-licenses, tech-tips, open-source-licensing
 
