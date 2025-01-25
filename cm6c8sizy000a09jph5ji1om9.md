@@ -5,6 +5,7 @@ seoDescription: "Set up a modern Node.js project with TypeScript, Rollup, Jest, 
 datePublished: Sat Jan 25 2025 13:44:26 GMT+0000 (Coordinated Universal Time)
 cuid: cm6c8sizy000a09jph5ji1om9
 slug: a-complete-nodejs-typescript-setup-with-rollup-jest-and-nodemon
+canonical: https://dev.to/pratham15541/a-complete-nodejs-typescript-setup-with-rollup-jest-and-nodemon-2i2m
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737812576915/508c18e1-2926-4075-aacc-b749700e92db.png
 tags: javascript, web-development, nodejs, cli, typescript, jest, rollup, nodemon, esbuild, development-setup
 
